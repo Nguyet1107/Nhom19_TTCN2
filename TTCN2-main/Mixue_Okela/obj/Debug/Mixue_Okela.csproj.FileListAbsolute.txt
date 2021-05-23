@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.FrmChinh.resources
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.FrmCuaHang.resources
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.Properties.Resources.resources
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\bin\Debug\Mixue_Okela.exe.config
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\bin\Debug\Mixue_Okela.exe
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\bin\Debug\Mixue_Okela.pdb
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.exe
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.pdb
+C:\Users\Admin\source\repos\Mixue_Okela\Mixue_Okela\obj\Debug\Mixue_Okela.FrmPhieuXuatKho.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmChinh.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmCuaHang.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.Properties.Resources.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.exe
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.pdb
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\bin\Debug\Mixue_Okela.exe.config
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\bin\Debug\Mixue_Okela.exe
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\bin\Debug\Mixue_Okela.pdb
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmTimKiemPXK.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmPhieuXuatKho1.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmChucVu.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmNhaCungCap.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmNhanVien.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmPhieuDatHang.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmTimKiemSP.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmSanPham.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmPhieuNhapKho.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmBC_TK.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\web\Thực tập cn2\TTCN2-main\Mixue_Okela\obj\Debug\Mixue_Okela.FrmTimKiemPNK.resources
